@@ -1,0 +1,15 @@
+.loginImg {
+    background-image: url("../img/b888.jpg");
+    height: 120vh;
+    width: 104%;
+    background-size: cover;
+  }
+  
+  .loginForm {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+  }
+  
